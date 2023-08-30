@@ -18,7 +18,7 @@ const btnLoadMore = document.querySelector('.load-more');
 const list = document.querySelector('ul.gallery');
 
 
-  //--------налаштування для simpleLightBox---------
+  //--------налаштування для simpleLightBox test---------
   let lightbox = new SimpleLightbox('.gallery a', {
     caption: true,
     captionsData: 'alt',
